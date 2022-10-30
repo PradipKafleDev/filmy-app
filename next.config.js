@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["upload.wikimedia.org", "image.tmbd.org"],
+    domains: ["upload.wikimedia.org", "image.tmdb.org"],
   },
 };
