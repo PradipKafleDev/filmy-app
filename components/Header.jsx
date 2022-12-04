@@ -33,6 +33,7 @@ const Header = () => {
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/1200px-Sahara-filmi-tv-logo.svg.png"
         width={200}
         height={100}
+        alt="image"
       />
     </header>
   );
